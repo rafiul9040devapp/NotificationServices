@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448978315679",
+    "project_id": "notificationservices-e66bd",
+    "storage_bucket": "notificationservices-e66bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448978315679:android:6246326878160c79e435aa",
+        "android_client_info": {
+          "package_name": "com.walletmix.notificationservices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW4MdRbbrpXh4hwiMGMrdZx2Ex4t0kTes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
